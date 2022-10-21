@@ -9,8 +9,8 @@ public class Main {
         System.out.println("Please input a string: ");
         String input = s.nextLine();
 
-        IAnaliseString vowelAnalyzer = new Vowel();
-        IAnaliseString consonantAnalyzer = new Consonant();
+        IAnalyseString vowelAnalyzer = new Vowel();
+        IAnalyseString consonantAnalyzer = new Consonant();
 
         System.out.printf("Analyzing result: vowels: %d, consonants: %d.", vowelAnalyzer.analyse(input), consonantAnalyzer.analyse(input));
     }

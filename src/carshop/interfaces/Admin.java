@@ -1,4 +1,4 @@
-package carshop_interface;
+package carshop.interfaces;
 
 public interface Admin {
     //returns total shop income

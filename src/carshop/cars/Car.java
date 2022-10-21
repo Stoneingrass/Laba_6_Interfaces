@@ -1,4 +1,4 @@
-package carshop_cars;
+package carshop.cars;
 
 public abstract class Car {
     protected int speed;

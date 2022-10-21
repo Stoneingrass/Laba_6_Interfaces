@@ -1,11 +1,11 @@
-package carshop_impl;
+package carshop.impl;
 
-import carshop_cars.Ford;
-import carshop_cars.Sedan;
-import carshop_cars.Track;
-import carshop_interface.Admin;
-import carshop_interface.Customer;
-import carshop_cars.Car;
+import carshop.cars.Ford;
+import carshop.cars.Sedan;
+import carshop.cars.Track;
+import carshop.interfaces.Admin;
+import carshop.interfaces.Customer;
+import carshop.cars.Car;
 
 public class MyOwnAutoShop implements Admin, Customer {
     protected Car[] cars;

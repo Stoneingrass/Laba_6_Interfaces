@@ -1,4 +1,4 @@
-package carshop_interface;
+package carshop.interfaces;
 
 public interface Customer {
     //return cars' (or car's) info

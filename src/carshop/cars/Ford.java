@@ -1,4 +1,4 @@
-package carshop_cars;
+package carshop.cars;
 
 public class Ford extends Car {
     private int year;

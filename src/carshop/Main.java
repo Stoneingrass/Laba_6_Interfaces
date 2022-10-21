@@ -1,9 +1,9 @@
 package carshop;
 
-import carshop_cars.Ford;
-import carshop_cars.Sedan;
-import carshop_cars.Track;
-import carshop_impl.MyOwnAutoShop;
+import carshop.cars.Ford;
+import carshop.cars.Sedan;
+import carshop.cars.Track;
+import carshop.impl.MyOwnAutoShop;
 
 import java.util.Scanner;
 
